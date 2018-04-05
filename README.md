@@ -1,5 +1,5 @@
-<[![Build Status](https://travis-ci.org/ilya41299/lab05.svg?branch=master)](https://travis-ci.org/ilya41299/lab05)>
-<фрагмент_вставки_значка>
+[![Build Status](https://travis-ci.org/ilya41299/lab05.svg?branch=master)](https://travis-ci.org/ilya41299/lab05)
+
 ## Laboratory work III
 
 Данная лабораторная работа посвещена изучению систем контроля версий на примере **Git**.
